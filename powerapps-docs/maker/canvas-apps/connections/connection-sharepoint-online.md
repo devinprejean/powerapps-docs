@@ -35,7 +35,7 @@ You can add data from a custom list but not a library. In addition, not all type
 | Person or Group |Yes |View lookup<br>Edit lookup<br>View multiselect<br>Edit multiselect |
 | Hyperlink |Yes |View URL<br>View text |
 | Picture |Yes (read-only) |View image<br>View text |
-| Attachment |Yes (read-only) |View Attachments|
+| Attachment |Yes |View Attachments|
 | Calculated |Yes (read-only) | |
 | Task Outcome |No | |
 | External data |No | |
